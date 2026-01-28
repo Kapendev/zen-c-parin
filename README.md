@@ -1,6 +1,6 @@
 # Zen C + Parin
 
-A basic example using the [Zen C programming](https://github.com/z-libs/Zen-C) language with [Parin](https://github.com/Kapendev/parin).
+A basic example using the [Zen C programming language](https://github.com/z-libs/Zen-C) with [Parin](https://github.com/Kapendev/parin).
 
 ![screenshot](shot.png)
 
